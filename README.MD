@@ -28,7 +28,7 @@ O projeto foi desenvolvido para **aprimorar minhas habilidades em desenvolviment
 
 ## 📸 Demonstração
 
-<img src="./src/img/demonstracao.png" alt="Demonstração do Carrossel" width="600"/>
+<img src="./src/img/demonstracao.png" alt="Demonstração do Carrossel" width="800"/>
 
 ---
 
